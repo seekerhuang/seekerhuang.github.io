@@ -41,7 +41,7 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
 Tengjun Huang  
 International Conference on Learning Representations (ICLR) Workshop, 2024.  
-<a href="http://arxiv.org/abs/2404.18253"><strong>Paper</strong></a>  [**[Code]**](https://github.com/seekerhuang/HarMA)
+[[**Paper**](http://arxiv.org/abs/2404.18253)]  [[**Code**](https://github.com/seekerhuang/HarMA)]
 
 # 🎖 Honors and Awards
 - **2nd Prize in All Tracks (Oral Presentation &amp; Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
@@ -58,7 +58,7 @@ International Conference on Learning Representations (ICLR) Workshop, 2024.
 <h2><b>Old people's behavioral safety monitored control system</b></h2>  
 Jiahui Cui, **Tengjun Huang**, Dongxu Liu, Xiaohuan Zhao, Siyuan Niu, Jiayi Lu, Yunhan Hu, Zhengshuai Jiang, Guangrun Wu  
 Publication of CN116246424A.  
-[**[Patent]**](https://patents.google.com/patent/CN116246424A/en)  
+[[**Patent**](https://patents.google.com/patent/CN116246424A/en)]  
 
 # 💼 Academic Service
 - *Journal Reviewer*: **IEEE Transactions on Artificial Intelligence (TAI)**.
