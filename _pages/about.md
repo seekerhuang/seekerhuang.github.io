@@ -43,9 +43,6 @@ Tengjun Huang
 International Conference on Learning Representations (ICLR) Workshop, 2024.  
 [**[Paper]**](http://arxiv.org/abs/2404.18253)  [**[Code]**](https://github.com/seekerhuang/HarMA)
 
-</div>
-
-
 # 🎖 Honors and Awards
 - **2nd Prize in All Tracks (Oral Presentation &amp; Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
 - **National Gold Medal**, Chinese Collegiate Algorithm Design &amp; Programming Challenge Contest, 2022
