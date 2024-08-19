@@ -36,7 +36,7 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 - *2022.07*: &nbsp;🥇 Secured a **National Gold Medal** in the Chinese Collegiate Algorithm Design & Programming Challenge.
 
 
-# 📝 Publications 
+# 📝 Selected Papers 
 
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
 Tengjun Huang  
