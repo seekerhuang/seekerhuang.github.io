@@ -30,7 +30,7 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 
 - *2024.06*: &nbsp;📝 Submitted a paper to **NeurIPS 2024** (Datasets and Benchmarks).
 - *2024.03*: &nbsp;🎉 My independent research on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted by the workshop of **ICLR 2024**.
-- *2023.11*: &nbsp;🏆 Achieved **2nd place in all tracks** of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an **oral presentation at NeurIPS 2023**. *(Track 1: 2nd out of 318 team submissions, Track 2: 2nd out of 149 team submissions, competed solo)*.
+- *2023.11*: &nbsp;🏆 Achieved **2nd place in all tracks** of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an **oral presentation at NeurIPS 2023**. *(Competed solo: Track 1: Ranked 2nd out of 318 submissions by different teams, Track 2: Ranked 2nd out of 149 submissions by different teams)*.
 - *2023.06*: &nbsp;🎉 Ranked in the Top **0.6%** in the Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
 - *2022.11*: &nbsp;🥈 Awarded **Second Prize** in the National College Mathematical Contest.
 - *2022.07*: &nbsp;🥇 Secured a **National Gold Medal** in the Chinese Collegiate Algorithm Design & Programming Challenge.
@@ -38,12 +38,11 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 
 # 📝 Publications 
 
-
 <div class='paper-box-text' markdown="1">
 
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
 Tengjun Huang  
-International Conference on Learning Representations (ICLR), 2024W.  
+International Conference on Learning Representations (ICLR) Workshop, 2024.  
 [**[Paper]**](http://arxiv.org/abs/2404.18253)  [**[Code]**](https://github.com/seekerhuang/HarMA)
 
 </div>
@@ -54,11 +53,11 @@ International Conference on Learning Representations (ICLR), 2024W.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💼 Academic Service
-- *Journal Reviewer* IEEE Transactions on Artificial Intelligence (TAI).
+- *Journal Reviewer*: **IEEE Transactions on Artificial Intelligence (TAI)**.
 
 # 📖 Educations
-- *2021 - 2025 (expected)*,Undergraduate Student,Artificial Intelligence ,Shandong University. 
+- *2021 - 2025 (expected)*: Undergraduate Student, **Artificial Intelligence**, Shandong University.
 
-# 💬 Invited Talks
+# 💬 Oral Presentations
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
