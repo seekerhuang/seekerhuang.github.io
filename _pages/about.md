@@ -43,9 +43,7 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 
 <h3><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h3>  
 Tengjun Huang  
-<br>
 International Conference on Learning Representations (ICLR), 2024W.  
-<br>
 [**[Paper]**](http://arxiv.org/abs/2404.18253)  
 [**[Code]**](https://github.com/seekerhuang/HarMA)
 
