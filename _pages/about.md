@@ -38,8 +38,6 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 
 # 📝 Publications 
 
-<div class='paper-box-text' markdown="1">
-
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
 Tengjun Huang  
 International Conference on Learning Representations (ICLR) Workshop, 2024.  
