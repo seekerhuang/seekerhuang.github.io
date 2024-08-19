@@ -52,13 +52,13 @@ International Conference on Learning Representations (ICLR) Workshop, 2024.
 - **First Prize (Top 5% &amp; Leader)**, Mathematical Modeling Contest of Shandong University, 2022
 - **National Third Prize**, National Finals of New Engineering National Innovation Competition, 2023
 - **National Third Prize (Top 3%)**, The 17th iCAN Innovation Contest, 2023
-- **First-Class (Top 1.2\%)**, Research and Innovation Scholarship of Shandong University, 2022
+- **First-Class (Top 1.2%)**, Research and Innovation Scholarship of Shandong University, 2022
 
 # 💡 Patents
 <h2><b>Old people's behavioral safety monitored control system</b></h2>  
 Jiahui Cui, **Tengjun Huang**, Dongxu Liu, Xiaohuan Zhao, Siyuan Niu, Jiayi Lu, Yunhan Hu, Zhengshuai Jiang, Guangrun Wu  
 Publication of CN116246424A.  
-[[**Patent**](https://patents.google.com/patent/CN116246424A/en)]  
+<!-- [[**Patent**](https://patents.google.com/patent/CN116246424A/en)]   -->
 
 # 💼 Academic Service
 - *Journal Reviewer*: **IEEE Transactions on Artificial Intelligence (TAI)**.
