@@ -28,7 +28,7 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 
 # 🔥 News
 
-- *2024.06*: &nbsp;📝 Submitted a paper to **NeurIPS 2024** (Datasets and Benchmarks).
+- *2024.06*: &nbsp;📝 Submitted one paper to **NeurIPS 2024** (Datasets and Benchmarks).
 - *2024.03*: &nbsp;🎉 My independent research on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted by the workshop of **ICLR 2024**.
 - *2023.11*: &nbsp;🏆 Achieved **2nd place in all tracks** of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an **oral presentation at NeurIPS 2023**. *(Competed solo: Track 1: Ranked 2nd out of 318 submissions by different teams, Track 2: Ranked 2nd out of 149 submissions by different teams)*.
 - *2023.06*: &nbsp;🎉 Ranked in the Top **0.6%** in the Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
@@ -49,8 +49,15 @@ International Conference on Learning Representations (ICLR) Workshop, 2024.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2nd Prize in All Tracks (Oral Presentation & Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
+- **National Gold Medal**, Chinese Collegiate Algorithm Design & Programming Challenge Contest, 2022
+- **Asian Second Prize (Leader)**, Asia and Pacific Mathematical Contest in Modeling, 2022
+- **Top 0.6% Nationwide (Solo)**, Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge, 2023
+- **Second Prize**, National College Mathematical Contest, 2022
+- **First Prize (Top 5% & Leader)**, Mathematical Modeling Contest of Shandong University, 2022
+- **National Third Prize**, National Finals of New Engineering National Innovation Competition, 2023
+- **National Third Prize (Top 3%)**, The 17th iCAN Innovation Contest, 2023
+- **First-Class (Top 1.2\%)**, Research and Innovation Scholarship of Shandong University, 2022
 
 # 💼 Academic Service
 - *Journal Reviewer*: **IEEE Transactions on Artificial Intelligence (TAI)**.
@@ -59,5 +66,4 @@ International Conference on Learning Representations (ICLR) Workshop, 2024.
 - *2021 - 2025 (expected)*: Undergraduate Student, **Artificial Intelligence**, Shandong University.
 
 # 💬 Oral Presentations
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *Dec 2023*, the Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023), Ernest N. Morial Convention Center, New Orleans, US, Room 353.
