@@ -17,14 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Tengjun Huang (黄腾骏), a third-year undergraduate at the School of Computer Science, Shandong University. My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, computer vision, and representation learning.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My previous work has centered around computer vision and multimodal learning, delving into the intrinsic connections between a single modality and multiple other modalities. I also possess a background in video understanding, medical image segmentation, and self-supervised learning. Meanwhile, I am also interested in exploring the application of LLM-based agents in multimodal learning.
+
+In my research, I aim to go beyond the surface-level understanding of data and instead seek to uncover deeper. Currently, an increasing number of approaches focus on scaling up data and models to address the gaps between different modalities, with the aim of learning holistic semantic connections. However, it may also be important to pay attention to underlying issues that cannot be resolved by simply enlarging the task scale. For instance, current multimodal models exhibit hallucinations during complex cross-modal reasoning and suffer significant performance drops when transferred to different domains with substantial gaps. On the other hand, we should perhaps explore more diverse learning paradigms, such as more fundamental task design, more efficient feature storage structures, more generalized optimization methods, and tighter representation coupling. This way, when mainstream development paths encounter obstacles, we still have various alternative strategies to explore. This perspective drives me to explore innovative methods and frameworks that can effectively integrate and leverage these interactions.
+
+I am currently seeking potential PhD opportunities for Fall 2025, as well as RA or collaborative projects. If you are interested in discussing my research or exploring potential collaborations, please feel free to contact me.
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+2024.06: 📝 一篇论文提交至NeurIPS 2024 (数据集和基准)。
+2024.03: 🎉 My independent research on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted at ICLR 2024 workshop.
+2023.11: 🏆 Achieved 2nd place in all tracks of the NeurIPS 2023 Road Event Detection with Requirements Challenge and 给 oral presentation at NeurIPS 2023.
+2023.06: 🎉 Top 0.6% in Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
+2022.11: 🥈 Awarded Second Prize in the National College Mathematical Contest.
+2022.07: 🥇 Secured National Gold Medal in the Chinese Collegiate Algorithm Design & Programming Challenge.
+
 
 # 📝 Publications 
 
