@@ -27,14 +27,13 @@ I am currently seeking potential PhD opportunities for Fall 2025, as well as RA 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-2024.06: 📝 一篇论文提交至NeurIPS 2024 (数据集和基准)。
-2024.03: 🎉 My independent research on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted at ICLR 2024 workshop.
-2023.11: 🏆 Achieved 2nd place in all tracks of the NeurIPS 2023 Road Event Detection with Requirements Challenge and 给 oral presentation at NeurIPS 2023.
-2023.06: 🎉 Top 0.6% in Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
-2022.11: 🥈 Awarded Second Prize in the National College Mathematical Contest.
-2022.07: 🥇 Secured National Gold Medal in the Chinese Collegiate Algorithm Design & Programming Challenge.
+
+- *2024.06*: &nbsp;📝 Submitted a paper to NeurIPS 2024 (Datasets and Benchmarks).
+- *2024.03*: &nbsp;🎉 My independent research on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted at the ICLR 2024 workshop.
+- *2023.11*: &nbsp;🏆 Achieved 2nd place in all tracks of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an oral presentation at NeurIPS 2023.
+- *2023.06*: &nbsp;🎉 Ranked in the Top 0.6% in the Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
+- *2022.11*: &nbsp;🥈 Awarded Second Prize in the National College Mathematical Contest.
+- *2022.07*: &nbsp;🥇 Secured a National Gold Medal in the Chinese Collegiate Algorithm Design & Programming Challenge.
 
 
 # 📝 Publications 
