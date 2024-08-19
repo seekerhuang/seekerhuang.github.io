@@ -49,6 +49,7 @@ International Conference on Learning Representations (ICLR) Workshop, 2024.
 - **Asian Second Prize (Leader)**, Asia and Pacific Mathematical Contest in Modeling, 2022
 - **Top 0.6% Nationwide (Solo)**, Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge, 2023
 - **Second Prize**, National College Mathematical Contest, 2022
+- **Second Prize (Leader)**, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2022
 - **First Prize (Top 5% &amp; Leader)**, Mathematical Modeling Contest of Shandong University, 2022
 - **National Third Prize**, National Finals of New Engineering National Innovation Competition, 2023
 - **National Third Prize (Top 3%)**, The 17th iCAN Innovation Contest, 2023
