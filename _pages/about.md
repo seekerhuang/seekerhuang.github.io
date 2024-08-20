@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Tengjun Huang, a third-year undergraduate at the School of Computer Science, Shandong University. My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, computer vision, and representation learning.
+I am Tengjun Huang (黄腾骏), a third-year undergraduate at the School of Computer Science, Shandong University. My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, computer vision, and representation learning.
 
 My previous work has centered around computer vision and multimodal learning, delving into the intrinsic connections between a single modality and multiple other modalities. I also possess a background in video understanding, medical image segmentation, and self-supervised learning. Meanwhile, I am also interested in exploring the application of LLM-based agents in multimodal learning.
 
