@@ -23,7 +23,7 @@ My previous work has centered around computer vision and multimodal learning, de
 
 In my research, I aim to go beyond the surface-level understanding of data and instead seek to uncover deeper. Currently, an increasing number of approaches focus on scaling up data and models to address the gaps between different modalities, with the aim of learning holistic semantic connections. However, it may also be important to pay attention to underlying issues that cannot be resolved by simply enlarging the task scale. For instance, current multimodal models exhibit hallucinations during complex cross-modal reasoning and suffer significant performance drops when transferred to different domains with substantial gaps. On the other hand, we should perhaps explore more diverse learning paradigms, such as more fundamental task design, more efficient feature storage structures, more generalized optimization methods, and tighter representation coupling. This approach ensures that when conventional development paths encounter challenging dilemmas, we still have various alternative strategies to explore. This perspective drives me to explore innovative methods and frameworks that can effectively integrate and leverage these interactions.
 
-I am currently seeking potential PhD opportunities for Fall 2025. If you are interested in discussing my research or exploring potential collaborations, please feel free to contact me. [[**📧Email**](mailto:tjhof321@gmail.com)]
+I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you are interested in discussing my research or exploring potential collaborations, please feel free to contact me. [[**📧Email**](mailto:tjhof321@gmail.com)]
 
 
 # 🔥 News
