@@ -30,7 +30,7 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
 
 - *2024.06*: &nbsp;📝 Submitted one paper to **NeurIPS 2024** (Datasets and Benchmarks).
 - *2024.03*: &nbsp;🎉 My independent research on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted by the workshop of **ICLR 2024**.
-- *2023.11*: &nbsp;🏆 Achieved **2nd place in all tracks** of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an **oral presentation** at NeurIPS 2023. ***(Competed solo: Track 1 — ranked 2nd out of 318 submissions by different teams, Track 2 — ranked 2nd out of 149 submissions by different teams)***.
+- *2023.11*: &nbsp;🏆 Achieved **2nd place (Runner-up) in all tracks** of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an **oral presentation** at NeurIPS 2023. ***(Competed solo: Track 1 — ranked 2nd out of 318 submissions by different teams, Track 2 — ranked 2nd out of 149 submissions by different teams)***.
 - *2023.06*: &nbsp;🎉 Ranked in the Top **0.6%** in the Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
 - *2022.11*: &nbsp;🥈 Awarded **Second Prize** in the National College Mathematical Contest.
 - *2022.07*: &nbsp;🥇 Secured a **National Gold Medal** in the Chinese Collegiate Algorithm Design & Programming Challenge.
@@ -46,7 +46,7 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
   
 
 # 🎖 Honors and Awards
-- **2nd Prize in All Tracks (Oral Presentation &amp; Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
+- **2nd (Runner-up) Prize in All Tracks (Oral Presentation &amp; Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
 - **National Gold Medal**, Chinese Collegiate Algorithm Design &amp; Programming Challenge Contest, 2022
 - **Asian Second Prize (Leader)**, Asia and Pacific Mathematical Contest in Modeling, 2022
 - **Top 0.6% Nationwide (Solo)**, Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge, 2023
@@ -60,6 +60,7 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
 # 💡 Patents
 <h2><b>Old people's behavioral safety monitored control system</b></h2>  
 Jiahui Cui, **Tengjun Huang**, Dongxu Liu, Xiaohuan Zhao, Siyuan Niu, Jiayi Lu, Yunhan Hu, Zhengshuai Jiang, Guangrun Wu  
+Invention Patent Grant, China National Intellectual Property Administration.
 Publication of CN116246424B.  
 <!-- [[**Patent**](https://patents.google.com/patent/CN116246424A/en)]   -->
 
