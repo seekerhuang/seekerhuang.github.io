@@ -46,7 +46,7 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
   
 
 # 🎖 Honors and Awards
-- **2nd (Runner-up) Prize in All Tracks (Oral Presentation &amp; Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
+- **2nd Place (Runner-up) in All Tracks (Oral Presentation &amp; Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
 - **National Gold Medal**, Chinese Collegiate Algorithm Design &amp; Programming Challenge Contest, 2022
 - **Asian Second Prize (Leader)**, Asia and Pacific Mathematical Contest in Modeling, 2022
 - **Top 0.6% Worldwide (Solo)**, Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge, 2023
