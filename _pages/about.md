@@ -49,12 +49,12 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
 - **2nd (Runner-up) Prize in All Tracks (Oral Presentation &amp; Solo)**, NeurIPS 2023 ROAD-R Challenge, 2023
 - **National Gold Medal**, Chinese Collegiate Algorithm Design &amp; Programming Challenge Contest, 2022
 - **Asian Second Prize (Leader)**, Asia and Pacific Mathematical Contest in Modeling, 2022
-- **Top 0.6% Nationwide (Solo)**, Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge, 2023
+- **Top 0.6% Worldwide (Solo)**, Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge, 2023
 - **Second Prize**, National College Mathematical Contest (CMC, organized by the Chinese Mathematical Society), 2022
 - **Second Prize (Leader)**, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2022
 - **First Prize (Top 5% &amp; Leader)**, Mathematical Modeling Contest of Shandong University, 2022
 - **National Third Prize**, National Finals of New Engineering National Innovation Competition, 2023
-- **National Third Prize (Top 3%)**, The 17th iCAN Innovation Contest, 2023
+- **National Third Prize (Top 3%)**, The 17th iCAN Innovation Contest (National Finals), 2023
 - **First-Class (Top 1.2%)**, Research and Innovation Scholarship of Shandong University, 2022
 
 # 💡 Patents
