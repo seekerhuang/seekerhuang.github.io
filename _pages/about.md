@@ -60,7 +60,7 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
 # 💡 Patents
 <h2><b>Old people's behavioral safety monitored control system</b></h2>  
 Jiahui Cui, **Tengjun Huang**, Dongxu Liu, Xiaohuan Zhao, Siyuan Niu, Jiayi Lu, Yunhan Hu, Zhengshuai Jiang, Guangrun Wu  
-Invention Patent Grant, China National Intellectual Property Administration.  
+**Invention Patent Grant**, China National Intellectual Property Administration.  
 Publication of CN116246424B.  
 <!-- [[**Patent**](https://patents.google.com/patent/CN116246424A/en)]   -->
 
