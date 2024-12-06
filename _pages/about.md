@@ -51,7 +51,7 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
 - **Asian Second Prize (Leader)**, Asia and Pacific Mathematical Contest in Modeling, 2022
 - **Top 0.2% Worldwide (Solo)**, Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge, 2023
 - **Second Prize**, National College Mathematical Contest (CMC, organized by the Chinese Mathematical Society), 2022
-- **Second Prize (Leader)**, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2022
+- **Second Prize (Leader)**, China Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2022
 - **First Prize (Top 5% &amp; Leader)**, Mathematical Modeling Contest of Shandong University, 2022
 - **National Third Prize**, National Finals of New Engineering National Innovation Competition, 2023
 - **National Third Prize (Top 3%)**, The 17th iCAN Innovation Contest (National Finals), 2023
