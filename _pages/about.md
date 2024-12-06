@@ -29,7 +29,7 @@ I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you a
 # 🔥 News
 
 - *2024.06*: &nbsp;📝 Submitted one paper to **NeurIPS 2024** (Datasets and Benchmarks).
-- *2024.03*: &nbsp;🎉 My work on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted by the ML4RS of **ICLR 2024**.
+- *2024.03*: &nbsp;🎉 My work on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted by the ML4RS of **The Twelfth International Conference on Learning Representations (ICLR 2024)**.
 - *2023.11*: &nbsp;🏆 Achieved **2nd place (Runner-up) in all tracks** of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an **oral presentation** at NeurIPS 2023. ***(Competed solo: Track 1 — ranked 2nd out of 318 submissions by different teams, Track 2 — ranked 2nd out of 149 submissions by different teams)***.
 - *2023.06*: &nbsp;🎉 Ranked in the **Top 0.6% (long-term competition, currently in the top 0.2%)** in the Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
 - *2022.11*: &nbsp;🥈 Awarded **Second Prize** in the National College Mathematical Contest.
