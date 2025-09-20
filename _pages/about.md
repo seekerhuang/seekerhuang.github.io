@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Tengjun Huang, a fourth-year undergraduate at the School of Computer Science, Shandong University. My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, computer vision, and representation learning.
+I am Tengjun Huang, a first-year MPhil student at The Hong Kong University of Science and Technology (Guangzhou). I received my bachelor's degree from the School of Computer Science, Shandong University. My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, MLLM, and representation learning.
 
 My previous work has centered around computer vision and multimodal learning, delving into the intrinsic connections between a single modality and multiple other modalities. I also possess a background in video understanding, medical image segmentation, and self-supervised learning. Meanwhile, I am also interested in exploring the application of LLM-based agents in multimodal learning.
 
 In my research, I aim to go beyond the surface-level understanding of data and instead seek to uncover deeper. Currently, an increasing number of approaches focus on scaling up data and models to address the gaps between different modalities, with the aim of learning holistic semantic connections. However, it may also be important to pay attention to underlying issues that cannot be resolved by simply enlarging the task scale. For instance, current multimodal models exhibit hallucinations during complex cross-modal reasoning and suffer significant performance drops when transferred to different domains with substantial gaps. On the other hand, we should perhaps explore more diverse learning paradigms, such as more fundamental task design, more efficient feature storage structures, more generalized optimization methods, and tighter representation coupling. This approach ensures that when conventional development paths encounter challenging dilemmas, we still have various alternative strategies to explore. This perspective drives me to explore innovative methods and frameworks that can effectively integrate and leverage these interactions.
 
-I am currently seeking potential PhD/Mphil opportunities for Fall 2025. If you are interested in discussing my research or exploring potential collaborations, please feel free to contact me. [[**📧Email**](mailto:tjhof321@gmail.com)]
+If you are interested in discussing my research or exploring potential collaborations, please feel free to contact me. [[**📧Email**](mailto:tjhof321@gmail.com)]
 
 
 # 🔥 News
@@ -68,7 +68,9 @@ Publication of CN116246424B.
 - *Journal Reviewer*: **IEEE Transactions on Artificial Intelligence (TAI)**.
 
 # 📖 Educations
-- *2021 - 2025 (expected)*: Undergraduate Student, **Artificial Intelligence**, Shandong University.
+- *2025 - (expected 2027)*: MPhil Student, The Hong Kong University of Science and Technology (Guangzhou).
+- *2021 - 2025*: B.Eng. in **Artificial Intelligence**, Shandong University.
+
 
 # 💬 Oral Presentations
 - *Dec 2023*, the Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023), Ernest N. Morial Convention Center, New Orleans, US, Room 353.
