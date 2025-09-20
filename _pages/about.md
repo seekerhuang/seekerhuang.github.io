@@ -41,7 +41,7 @@ If you are interested in discussing my research or exploring potential collabora
 
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
 **Tengjun Huang**  
-*International Conference on Learning Representations (ICLR) Workshop*, 2024.  
+*The Twelfth International Conference on Learning Representations (ICLR 2024), ML4RS.*  
 [[**Paper**](https://iclr.cc/media/iclr-2024/Slides/22002.pdf)]  [[**Arxiv**](http://arxiv.org/abs/2404.18253)]   [<a href="https://github.com/seekerhuang/HarMA"><img src="https://img.shields.io/github/stars/seekerhuang/HarMA.svg?style=social&label=Stars" alt="Stars"/></a>]
 
 
