@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tengjun Huang"
-description              : "Undergraduate student in School of Computer Science and Technology, Shandong University. "
+description              : "MPhil student at The Hong Kong University of Science and Technology (Guangzhou)."
 repository               : "seekerhuang/seekerhuang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tengjun Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shandong University"
-  location         : "Shandong, China"
+  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
+  location         : "Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=K09z_dEAAAAJ"
