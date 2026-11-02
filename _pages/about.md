@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Tengjun Huang, an MPhil student at The Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my bachelor's degree from the School of Computer Science, Shandong University, where I was advised by [Prof. Jianhua Yin](https://scholar.google.com/citations?user=aZZfn90AAAAJ&hl=en). My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, MLLM, and representation learning.
+I am Tengjun Huang, an MPhil student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my bachelor's degree from the School of Computer Science, Shandong University, where I was advised by [Prof. Jianhua Yin](https://scholar.google.com/citations?user=aZZfn90AAAAJ&hl=en). My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, MLLM, and representation learning.
 
 My previous work has centered around computer vision and multimodal learning, delving into the intrinsic connections between a single modality and multiple other modalities. I also possess a background in video understanding, medical image segmentation, and self-supervised learning. Meanwhile, I am also interested in exploring the application of LLM-based agents in multimodal learning.
 
@@ -79,7 +79,7 @@ Publication of CN116246424B.
 - *Journal Reviewer*: **IEEE Transactions on Artificial Intelligence (TAI)**.
 
 # 📖 Educations
-- *2025 - (expected 2027)*: MPhil Student, The Hong Kong University of Science and Technology (Guangzhou). Advisor: [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ).
+- *2025 - (expected 2027)*: MPhil Student in **Artificial Intelligence**, The Hong Kong University of Science and Technology (Guangzhou). Advisor: [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ).
 - *2021 - 2025*: B.Eng. in **Artificial Intelligence**, Shandong University. Advisor: [Prof. Jianhua Yin](https://scholar.google.com/citations?user=aZZfn90AAAAJ&hl=en).
 
 
