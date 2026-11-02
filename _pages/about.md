@@ -21,7 +21,7 @@ I am Tengjun Huang, an MPhil student at The Hong Kong University of Science and 
 
 My previous work has centered around computer vision and multimodal learning, delving into the intrinsic connections between a single modality and multiple other modalities. I also possess a background in video understanding, medical image segmentation, and self-supervised learning. Meanwhile, I am also interested in exploring the application of LLM-based agents in multimodal learning.
 
-In my research, I aim to go beyond the surface-level understanding of data and instead seek to uncover deeper. Currently, an increasing number of approaches focus on scaling up data and models to address the gaps between different modalities, with the aim of learning holistic semantic connections. However, it may also be important to pay attention to underlying issues that cannot be resolved by simply enlarging the task scale. For instance, current multimodal models exhibit hallucinations during complex cross-modal reasoning and suffer significant performance drops when transferred to different domains with substantial gaps. On the other hand, we should perhaps explore more diverse learning paradigms, such as more fundamental task design, more efficient feature storage structures, more generalized optimization methods, and tighter representation coupling. This approach ensures that when conventional development paths encounter challenging dilemmas, we still have various alternative strategies to explore. This perspective drives me to explore innovative methods and frameworks that can effectively integrate and leverage these interactions.
+In my research, I aim to go beyond the surface-level understanding of data and instead seek to uncover deeper. Currently, an increasing number of approaches focus on scaling up data and models to address the gaps between different modalities, with the aim of learning holistic semantic connections. However, it may also be important to pay attention to underlying issues that cannot be resolved by simply enlarging the task scale. On the other hand, we should perhaps explore more diverse learning paradigms, such as more fundamental task design, more efficient feature storage structures, more generalized optimization methods, and tighter representation coupling. This approach ensures that when conventional development paths encounter challenging dilemmas, we still have various alternative strategies to explore. This perspective drives me to explore innovative methods and frameworks that can effectively integrate and leverage these interactions.
 
 I am looking for **PhD opportunities for Fall 2027**. If you are interested in discussing my research, please feel free to contact me. [[**📧Email**](mailto:tjhof321@gmail.com)]
 
@@ -42,7 +42,7 @@ I am looking for **PhD opportunities for Fall 2027**. If you are interested in d
 
 <h2><b>Reprise: One Graph Pass for Two GNN Updates</b></h2>  
 **Tengjun Huang**, Haiqi Jiang, Fuxiang Zhai, Yijie Xu, Hui Xiong<sup>†</sup>  
-*Under review at VLDB 2027 (sole first author).*  
+*Under review at VLDB 2027.*  
 
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
 **Tengjun Huang**  
