@@ -6,13 +6,26 @@
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
+            var totalCitation = document.getElementById('total_cit');
+            if (totalCitation) {
+                totalCitation.textContent = data['citedby'];
+            }
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var publication = data['publications'][paperId];
+                if (!publication) return;
+                var numCitations = publication['num_citations'];
+                var link = document.createElement('a');
+                link.href = 'https://scholar.google.com/citations?view_op=view_citation&user=' +
+                    encodeURIComponent(paperId.split(':')[0]) + '&citation_for_view=' + encodeURIComponent(paperId);
+                var badge = document.createElement('img');
+                badge.src = 'https://img.shields.io/badge/Citations-' + numCitations +
+                    '-blue?style=social&logo=googlescholar';
+                badge.alt = 'Google Scholar citations: ' + numCitations;
+                badge.title = 'Google Scholar citations';
+                link.appendChild(badge);
+                element.replaceChildren(link);
             });
         });
     })
