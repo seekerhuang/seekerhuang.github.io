@@ -38,8 +38,10 @@ I am looking for **PhD opportunities for Fall 2027**. If you are interested in d
 
 # 📝 Selected Papers 
 
+<sup>&#42;</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
 <h2><b>Reprise: One Graph Pass for Two GNN Updates</b></h2>  
-**Tengjun Huang**, Haiqi Jiang, Fuxiang Zhai, Yijie Xu, Hui Xiong  
+**Tengjun Huang**, Haiqi Jiang, Fuxiang Zhai, Yijie Xu, Hui Xiong<sup>†</sup>  
 *Under review at VLDB 2027 (sole first author).*  
 
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
@@ -48,7 +50,7 @@ I am looking for **PhD opportunities for Fall 2027**. If you are interested in d
 [[**Paper**](https://iclr.cc/media/iclr-2024/Slides/22002.pdf)]  [[**Arxiv**](http://arxiv.org/abs/2404.18253)]   [<a href="https://github.com/seekerhuang/HarMA"><img src="https://img.shields.io/github/stars/seekerhuang/HarMA.svg?style=social&label=Stars" alt="Stars"/></a>]
 
 <h2><b>Latent Action Control for Reasoning-Guided Unified Image Generation</b></h2>  
-Fuxiang Zhai, Sixiang Chen, Yingjin Li, Shuaibo Li, Jianyu Lai, **Tengjun Huang**, Lei Zhu  
+Fuxiang Zhai<sup>&#42;</sup>, Sixiang Chen<sup>&#42;</sup>, Yingjin Li, Shuaibo Li, Jianyu Lai, **Tengjun Huang**, Lei Zhu<sup>†</sup>  
 *Under review at CVPR 2027 (co-author).*  
 [[**Arxiv**](https://arxiv.org/abs/2605.16961)]
 
