@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Tengjun Huang, a first-year MPhil student at The Hong Kong University of Science and Technology (Guangzhou). I received my bachelor's degree from the School of Computer Science, Shandong University. My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, MLLM, and representation learning.
+I am Tengjun Huang, an MPhil student at The Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my bachelor's degree from the School of Computer Science, Shandong University, where I was advised by [Prof. Jianhua Yin](https://jhyin12.github.io/). My passion lies in uncovering the intricate relationships between diverse perceptual modalities and behavioral paradigms. My research interests are primarily focused on multimodal learning, MLLM, and representation learning.
 
 My previous work has centered around computer vision and multimodal learning, delving into the intrinsic connections between a single modality and multiple other modalities. I also possess a background in video understanding, medical image segmentation, and self-supervised learning. Meanwhile, I am also interested in exploring the application of LLM-based agents in multimodal learning.
 
@@ -27,22 +27,30 @@ If you are interested in discussing my research or exploring potential collabora
 
 
 # 🔥 News
+- *2026.11*: &nbsp;📝 Submitted one paper to **CVPR 2027** (co-author).
+- *2026.10*: &nbsp;📝 Submitted one paper to **VLDB 2027** (sole first author).
+- *2026.05*: &nbsp;📝 Submitted one paper to **NeurIPS 2026** (co-author).
 - *2025.06*: &nbsp;🎓 Graduated from **Shandong University**. Completed my bachelor thesis with **Excellent**.
 - *2025.01*: &nbsp;🎉 Thrilled to receive an **offer from HKUST(GZ)** for the MPhil program.
-- *2024.06*: &nbsp;📝 Submitted one paper to **NeurIPS 2024** (Datasets and Benchmarks).
 - *2024.03*: &nbsp;🎉 My independent work on "Multimodal Representation Alignment and Efficient Transfer Learning" was accepted to the workshop of **The Twelfth International Conference on Learning Representations (ICLR 2024)**.
 - *2023.11*: &nbsp;🏆 Achieved **2nd place (Runner-up) in all tracks** of the NeurIPS 2023 Road Event Detection with Requirements Challenge and gave an **oral presentation at NeurIPS 2023**. ***(Competed solo: Track 1 — ranked 2nd out of 318 submissions by different teams, Track 2 — ranked 2nd out of 149 submissions by different teams)***.
-- *2023.06*: &nbsp;🎉 Ranked in the **Top 0.6% (long-term competition, currently in the top 0.2%)** in the Alibaba Cloud Tianchi Tmall Repurchase Prediction Challenge.
-- *2022.11*: &nbsp;🥈 Awarded **Second Prize** in the National College Mathematical Contest.
-- *2022.07*: &nbsp;🥇 Secured a **National Gold Medal** in the Chinese Collegiate Algorithm Design & Programming Challenge.
 
 
 # 📝 Selected Papers 
+
+<h2><b>Reprise: One Graph Pass for Two GNN Updates</b></h2>  
+**Tengjun Huang**, Haiqi Jiang, Fuxiang Zhai, Yijie Xu, Hui Xiong  
+*Under review at VLDB 2027 (sole first author).*  
 
 <h2><b>Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</b></h2>  
 **Tengjun Huang**  
 *The Twelfth International Conference on Learning Representations (ICLR 2024), ML4RS.*  
 [[**Paper**](https://iclr.cc/media/iclr-2024/Slides/22002.pdf)]  [[**Arxiv**](http://arxiv.org/abs/2404.18253)]   [<a href="https://github.com/seekerhuang/HarMA"><img src="https://img.shields.io/github/stars/seekerhuang/HarMA.svg?style=social&label=Stars" alt="Stars"/></a>]
+
+<h2><b>Latent Action Control for Reasoning-Guided Unified Image Generation</b></h2>  
+Fuxiang Zhai, Sixiang Chen, Yingjin Li, Shuaibo Li, Jianyu Lai, **Tengjun Huang**, Lei Zhu  
+*Under review at CVPR 2027 (co-author).*  
+[[**Arxiv**](https://arxiv.org/abs/2605.16961)]
 
 
 
@@ -69,8 +77,8 @@ Publication of CN116246424B.
 - *Journal Reviewer*: **IEEE Transactions on Artificial Intelligence (TAI)**.
 
 # 📖 Educations
-- *2025 - (expected 2027)*: MPhil Student, The Hong Kong University of Science and Technology (Guangzhou).
-- *2021 - 2025*: B.Eng. in **Artificial Intelligence**, Shandong University.
+- *2025 - (expected 2027)*: MPhil Student, The Hong Kong University of Science and Technology (Guangzhou). Advisor: [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ).
+- *2021 - 2025*: B.Eng. in **Artificial Intelligence**, Shandong University. Advisor: [Prof. Jianhua Yin](https://jhyin12.github.io/).
 
 
 # 💬 Oral Presentations
