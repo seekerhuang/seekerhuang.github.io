@@ -27,7 +27,6 @@ I am looking for **PhD opportunities for Fall 2027**. If you are interested in d
 
 
 # 🔥 News
-- *2026.11*: &nbsp;📝 Submitted one paper to **CVPR 2027** (co-author).
 - *2026.10*: &nbsp;📝 Submitted one paper to **VLDB 2027** (sole first author).
 - *2026.05*: &nbsp;📝 Submitted one paper to **NeurIPS 2026** (co-author).
 - *2025.06*: &nbsp;🎓 Graduated from **Shandong University**. Completed my bachelor thesis with **Excellent**.
