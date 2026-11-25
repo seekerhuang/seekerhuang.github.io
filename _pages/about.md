@@ -50,7 +50,7 @@ I am looking for **PhD opportunities for Fall 2027**. If you are interested in d
 
 <h2><b>Latent Action Control for Reasoning-Guided Unified Image Generation</b></h2>  
 Fuxiang Zhai<sup>&#42;</sup>, Sixiang Chen<sup>&#42;</sup>, Yingjin Li, Shuaibo Li, Jianyu Lai, **Tengjun Huang**, Lei Zhu<sup>†</sup>  
-*Under review at CVPR 2027 (co-author).*  
+*Under review*  
 [[**Arxiv**](https://arxiv.org/abs/2605.16961)]  <span class="show_paper_citations" data="K09z_dEAAAAJ:9yKSN-GCB0IC"></span>
 
 
