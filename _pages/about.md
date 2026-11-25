@@ -80,8 +80,7 @@ Publication of CN116246424B.
 # 📖 Educations
 - *2025 - (expected 2027)*: MPhil Student in **Artificial Intelligence**, The Hong Kong University of Science and Technology (Guangzhou). Advisor: [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ).
 - *2021 - 2025*: B.Eng. in **Artificial Intelligence**, Shandong University. Advisor: [Prof. Jianhua Yin](https://scholar.google.com/citations?user=aZZfn90AAAAJ).
-
-**Language:** English (IELTS 7.0, Writing 7.0), Chinese.
+- *Language*: English (IELTS 7.0, Writing 7.0), Chinese.
 
 # 💬 Oral Presentations
 - *Dec 2023*, the Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023), Ernest N. Morial Convention Center, New Orleans, US, Room 353.
