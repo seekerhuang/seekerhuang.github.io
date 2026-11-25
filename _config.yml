@@ -24,9 +24,7 @@ author:
   name             : "Tengjun Huang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "HKUST(GZ)"
-  locations        :
-    - "Guangdong, China"
-    - "Hong Kong, China"
+  location         : "Guangdong & Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=K09z_dEAAAAJ"

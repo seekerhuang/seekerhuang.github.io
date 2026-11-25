@@ -19,9 +19,9 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
-      {% for location in author.locations %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ location | escape }}</li>
-      {% endfor %}
+      {% if author.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location | escape }}</li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
