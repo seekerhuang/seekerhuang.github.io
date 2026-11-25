@@ -9,7 +9,7 @@
 title                    : "Tengjun Huang"
 description              : "MPhil student at HKUST(GZ)."
 repository               : "seekerhuang/seekerhuang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  G-JVSFCQXJEL
